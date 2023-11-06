@@ -1,6 +1,5 @@
 # voronoiThis
 
-https://user-images.githubusercontent.com/96590051/280630921-f31077d0-48d8-46f6-a56e-012cf6b9dca2.png
 
 
 
