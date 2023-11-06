@@ -3,13 +3,14 @@
 
 <img width="1215" alt="vor3" src="https://github.com/powersprouter/voronoiThis/assets/96590051/8f476767-d5c9-4d02-a2a6-4533b5ed95d5">
 
-This Blender add-on allows you to quickly add a preprogrammed geonode modifier to your mesh that will change it into a surface voronoi version. Just select your mesh and click APPLY in the 3D viewport side UI panel (the "N-panel").
-(Technically speaking, the voronoi is not actually applied - it is sitting as a modifier in your modifier stack that can be undone - click UNDO to clear).
+This Blender add-on allows you to quickly add a preprogrammed geometry node to your mesh that will change it into a version that has a voronoi on the surface. Just select your mesh and click APPLY in the 3D viewport side UI panel (the "N-panel").
+(Technically speaking, the voronoi is not actually applied - it is non-destructive, sitting as a modifier in your modifier stack that can be undone - click UNDO to clear).
 
 To install the add-on, download the zip, go to user Preferences>Add-ons and install & activate the zip file without unzipping. This add-on requires Blender version 3.6 or more recent.
 
-When you apply a voronoi to your mesh, various key parameters are also shown as group inputs in the modifier. Just go to the modifier stack (the wrench) and you will see the node named "GeoNode" there.
-Note that the default setting for subdivisions is at a level of 8. This works well with the default cube and other low poly meshes, but if you are wanting to voronoi something more complicated, you may want to lower the subdiv level to 4 or lower even for better performance. Other key parameters are also able to be adjusted right in the GeoNode modifier.
+When you apply a voronoi to your mesh, various key parameters are also shown as group inputs in the modifier. Just go to the modifier properties (the wrench) and you will see the node named "GeoNode" there.
+
+Note that the default setting for subdivisions is at a level of 8. This works well with the default cube and other low poly meshes, but if you are wanting to voronoi something more complicated, you may want to lower the subdiv level to 4 or lower even for better performance. Other key parameters are also able to be adjusted right in the GeoNode modifier, as well as in the node tree itself.
 
 Volume voronoi will be available when Cody figures out how to do geometry nodes. Cmon Cody! You can do it!!
 
