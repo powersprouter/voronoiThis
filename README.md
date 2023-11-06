@@ -16,6 +16,7 @@ Volume voronoi will be available when Cody figures out how to do geometry nodes.
 <img width="437" alt="vorThis1" src="https://github.com/powersprouter/voronoiThis/assets/96590051/f31077d0-48d8-46f6-a56e-012cf6b9dca2">
 <img width="427" alt="vorThis2" src="https://github.com/powersprouter/voronoiThis/assets/96590051/d423496a-66b4-430c-83fd-fa76407239d3">
 <img width="1235" alt="vor5" src="https://github.com/powersprouter/voronoiThis/assets/96590051/28ab66d9-3be2-4219-89d8-db6bce3c6427">
+<img width="354" alt="vor4" src="https://github.com/powersprouter/voronoiThis/assets/96590051/d3a149e5-512a-4733-9452-340a69c02c0e">
 
 
 
