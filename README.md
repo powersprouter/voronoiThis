@@ -12,7 +12,7 @@ When you apply a voronoi to your mesh, various key parameters are also shown as 
 
 Note that the default setting for subdivisions is at a level of 8. This works well with the default cube and other low poly meshes, but if you are wanting to voronoi something more complicated, you may want to lower the subdiv level to 4 or lower even for better performance. Other key parameters are also able to be adjusted right in the GeoNode modifier, as well as in the Voronoi Surface nodegroup itself.
 
-Volumetric voronoi and other parametric structural modifiers, including algorithmic optimizations for engineering constraints and ai driven generative design, are easy for me. Am happy to discuss your concepts - please don't hesitate to inquire.
+Volumetric voronoi and other parametric structural modifiers, including algorithmic optimizations for engineering constraints, are not difficult - am happy to work on this more if there is sufficient interest.
 
 <img width="437" alt="vorThis1" src="https://github.com/powersprouter/voronoiThis/assets/96590051/f31077d0-48d8-46f6-a56e-012cf6b9dca2">
 <img width="427" alt="vorThis2" src="https://github.com/powersprouter/voronoiThis/assets/96590051/d423496a-66b4-430c-83fd-fa76407239d3">
