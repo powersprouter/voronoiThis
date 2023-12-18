@@ -16,7 +16,7 @@ bl_info = {
     "author" : "powersprouter",
     "description" : "changes mesh object into voronoi version",
     "blender" : (3, 6, 0),
-    "version" : (0, 0, 1),
+    "version" : (0, 0, 2),
     "location" : "View3D",
     "warning" : "",
     "category" : "Object"
