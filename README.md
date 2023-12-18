@@ -10,7 +10,7 @@ To install the add-on, download the zip, go to user Preferences>Add-ons and inst
 
 When you apply a voronoi to your mesh, various key parameters are also shown as group inputs in the modifier. Just go to modifier properties (the wrench) and you will see the node named "GeoNode" there.
 
-Note that the default setting for subdivisions is at a level of 8. This works well with the default cube and other low poly meshes, but if you are wanting to voronoi something more complicated, you may want to lower the subdiv level to 4 or lower even for better performance. Other key parameters are also able to be adjusted right in the GeoNode modifier, as well as in the Voronoi Surface nodegroup itself.
+Note that the default setting for subdivisions is at a level of 4. This works well with the default cube and other low poly meshes, but if you are wanting to voronoi something more complicated, you may want to lower the subdiv level for better performance, or adjust higher if you want more divisions. Really depends on the level of detail in your underlying mesh and the processing power available to you on your machine. There are other key parameters that are also able to be adjusted right in the GeoNode modifier, as well as in the Voronoi Surface nodegroup itself. Enjoy!
 
 Volumetric voronoi and other parametric structural modifiers, including algorithmic optimizations for engineering constraints, are not difficult - am happy to work on this more if there is sufficient interest.
 
