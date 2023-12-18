@@ -162,7 +162,7 @@ def voronoi_surface_node_group():
 
 	#input SubDiv Level
 	voronoi_surface.inputs.new('NodeSocketInt', "SubDiv Level")
-	voronoi_surface.inputs[4].default_value = 8
+	voronoi_surface.inputs[4].default_value = 4
 	voronoi_surface.inputs[4].min_value = 0
 	voronoi_surface.inputs[4].max_value = 10
 	voronoi_surface.inputs[4].attribute_domain = 'POINT'
