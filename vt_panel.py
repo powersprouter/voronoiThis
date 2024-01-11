@@ -21,4 +21,4 @@ class vt_PT_Panel(bpy.types.Panel):
             active_obj.modifiers['GeoNode']
             box.operator("object.undo_voronoi", text="UNDO")
         except:
-            box.operator("object.apply_voronoi", text="APPLY")
+            box.operator("object.apply_voronoi", text="ADD MODIFIER")
