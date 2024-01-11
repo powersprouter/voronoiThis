@@ -3,8 +3,8 @@
 
 <img width="1215" alt="vor3" src="https://github.com/powersprouter/voronoiThis/assets/96590051/8f476767-d5c9-4d02-a2a6-4533b5ed95d5">
 
-This Blender add-on allows you to quickly add a preprogrammed geometry node to your mesh that will change it into a version that has a voronoi surface. Just select your mesh and click APPLY in the 3D viewport side UI panel (the "N-panel").
-(Technically speaking, the voronoi is not actually applied - it is non-destructive, sitting as a modifier in your modifier stack that can be undone - click UNDO to clear).
+This Blender add-on allows you to quickly add a preprogrammed geometry node to your mesh that will change it into a version that has a voronoi surface. Just select your mesh and click ADD MODIFIER in the 3D viewport side UI panel (the "N-panel").
+(The voronoi is not applied - it is non-destructive, sitting as a modifier in your modifier stack that can be undone - click UNDO to clear. Be sure to APPLY the modifier if you want to use it in combination with an animation, otherwise your computer will get bogged down with so many data calculations).
 
 To install the add-on, download the zip, go to user Preferences>Add-ons and install & activate the zip file without unzipping. This add-on requires Blender version 3.6 or more recent.
 
